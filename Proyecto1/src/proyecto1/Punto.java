@@ -6,9 +6,9 @@ package proyecto1;
 */
 public class Punto {
 // Subtema 2.1 — Atributos privados (encapsulamiento)
-private final String etiqueta;
-private final int x;
-private final int y;
+private  String etiqueta;
+private  int x;
+private  int y;
 // Subtema 2.5 — Constructor con parámetros
 public Punto(String etiqueta, int x, int y) {
 this.etiqueta = etiqueta; // Subtema 2.3 — this
